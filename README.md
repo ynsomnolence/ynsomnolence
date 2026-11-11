@@ -33,7 +33,7 @@
 ```
 
 <p align="center">
-  <a href="https://www.instagram.com/ensatsu/"><img src="./imgs/icons/instagram.svg" alt="Instagram" title="Instagram · @ensatsu" width="60" height="60"></a
-  ><a href="https://x.com/wythoutconsent"><img src="./imgs/icons/x.svg" alt="X" title="X · @wythoutconsent" width="60" height="60"></a
-  ><img src="./imgs/icons/discord.svg" alt="Discord" title="Discord · ynsomnolence" width="60" height="60">
+  <a href="https://www.instagram.com/ensatsu/"><img src="./instagram.svg" alt="Instagram" title="Instagram · @ensatsu" width="60" height="60"></a
+  ><a href="https://x.com/wythoutconsent"><img src="./x.svg" alt="X" title="X · @wythoutconsent" width="60" height="60"></a
+  ><img src="./discord.svg" alt="Discord" title="Discord · ynsomnolence" width="60" height="60">
 </p>
